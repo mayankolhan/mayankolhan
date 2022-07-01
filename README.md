@@ -28,11 +28,10 @@ ____    __    ____  _______  __        ______   ______   .___  ___.  _______
 
  :book: About Me
   <br>
-Hey , I'm Rajat Olhan a self-taught developer.I have been persisetent towards Cybersecurity as i enjoy finding loopholes/vulnerabilities and patching them up. I try to be thorough as it keep my code complex yet elegant.
+Hey , I'm Mayank Olhan a self-taught developer.I have been persisetent towards data science and machine learning.I try to be thorough as it keep my code complex yet elegant.
 
 I like learning from open-source projects , it's a sea of ideas and knowledge. 
 
-- 🎓 Pursuing Masters in Cybersecurity and Networks from UNH,CT 
 - 💼 any freelance work? do reach, [email](mailto:mayankolhan@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
