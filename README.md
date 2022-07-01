@@ -8,17 +8,9 @@ ____    __    ____  _______  __        ______   ______   .___  ___.  _______
                                                                              </pre>
 
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
-<a href="https://www.instagram.com/rajatolhan/">
-  <img align="left" alt="Rajat's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<!-- <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Rajat's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> -->
-<a href="https://twitter.com/rajatolhan">
-  <img align="left" alt="Rajat Olhan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rajatolhan/">
-  <img align="left" alt="Rajat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+
+<a href="https://www.linkedin.com/in/mayank-olhan-0351401b6/">
+  <img align="left" alt="Mayank's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <!-- <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Rajat's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
